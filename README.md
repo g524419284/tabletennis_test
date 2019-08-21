@@ -1,2 +1,2 @@
 # tabletennis_test
-gds
+个人学习cocos creator，练手项目
