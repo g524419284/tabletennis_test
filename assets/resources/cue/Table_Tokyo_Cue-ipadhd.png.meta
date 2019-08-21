@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "270366cc-35ee-4fdd-8364-76fcca942582",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Table_Tokyo_Cue-ipadhd": {
+      "ver": "1.0.4",
+      "uuid": "f89c71d6-6d9a-4121-9cb7-7a470853b361",
+      "rawTextureUuid": "270366cc-35ee-4fdd-8364-76fcca942582",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 901,
+      "height": 42,
+      "rawWidth": 901,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

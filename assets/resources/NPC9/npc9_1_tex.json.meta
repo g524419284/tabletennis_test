@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "71802700-734c-41e8-a867-1ed5790a46b2",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"npc9_1_tex.png\",\"height\":512,\"name\":\"npc9_1\",\"SubTexture\":[{\"width\":39,\"y\":448,\"height\":51,\"name\":\"左手1\",\"x\":141},{\"width\":103,\"y\":355,\"height\":135,\"name\":\"左手2\",\"x\":182},{\"width\":179,\"y\":1,\"height\":390,\"name\":\"身体\",\"x\":1},{\"width\":114,\"y\":355,\"height\":108,\"name\":\"胸部\",\"x\":395},{\"width\":106,\"y\":355,\"height\":131,\"name\":\"头\",\"x\":287},{\"width\":64,\"y\":448,\"height\":60,\"name\":\"头发左\",\"x\":75},{\"width\":40,\"y\":1,\"height\":135,\"name\":\"右手1\",\"x\":249},{\"width\":93,\"y\":393,\"height\":53,\"name\":\"右手2\",\"x\":75},{\"frameWidth\":76,\"y\":1,\"frameHeight\":564,\"width\":65,\"frameX\":0,\"height\":352,\"name\":\"右手3\",\"frameY\":0,\"x\":182},{\"width\":72,\"y\":393,\"height\":96,\"name\":\"右头发2\",\"x\":1},{\"width\":37,\"y\":138,\"height\":79,\"name\":\"右头发1\",\"x\":249}]}",
+  "texture": "0c8e0a1f-5d9d-45cc-9c1e-a55e6ac53ea3",
+  "subMetas": {}
+}

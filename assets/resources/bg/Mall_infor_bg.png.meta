@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "8d48b2a3-1fa2-4f8d-a082-048fc3fcdf8d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Mall_infor_bg": {
+      "ver": "1.0.4",
+      "uuid": "51fa12ea-1551-4866-9ce5-3b113a2d84f9",
+      "rawTextureUuid": "8d48b2a3-1fa2-4f8d-a082-048fc3fcdf8d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

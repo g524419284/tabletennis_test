@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "1af18cd3-cfe2-467d-a4a9-9a0afc056946",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Table_BlackHole_Cue-ipadhd": {
+      "ver": "1.0.4",
+      "uuid": "d23588ef-587f-4ebd-92f2-839a095bf1c3",
+      "rawTextureUuid": "1af18cd3-cfe2-467d-a4a9-9a0afc056946",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 905,
+      "height": 92,
+      "rawWidth": 907,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

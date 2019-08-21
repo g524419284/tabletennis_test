@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "0b57acc9-aa40-4637-89b5-7425e61acf3b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "mario_117_fenzhi": {
+      "ver": "1.0.4",
+      "uuid": "c4f30926-bd0e-4fcd-8ad2-5b674a7502ff",
+      "rawTextureUuid": "0b57acc9-aa40-4637-89b5-7425e61acf3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 30,
+      "height": 23,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

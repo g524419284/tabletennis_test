@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "59bdf433-352a-4948-bcd9-a43338a01d3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "winCoin": {
+      "ver": "1.0.4",
+      "uuid": "3cc44efa-c8d2-44e0-ad56-b02417869be6",
+      "rawTextureUuid": "59bdf433-352a-4948-bcd9-a43338a01d3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 188,
+      "height": 59,
+      "rawWidth": 188,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
